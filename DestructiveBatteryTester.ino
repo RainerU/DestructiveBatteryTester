@@ -47,8 +47,9 @@ byte column8[] = {0, 11, 22, 33, 44, 55, 66, 77};
 #define minStopVoltage 0.8 // lowest voltage allowed for discharge stop
 #define maxStopVoltage 1.5 // highest voltage allowed for discharge stop 
 
-// cell discharge current - measured with ampmeter
-const float dischargeCurrent[] = {49.8, 49.5, 50.6, 49.3, 49.5, 49.9, 49.8, 49.8};
+// cell discharge current - measured with amp-meter right at the cell
+// for best precision put your individual values in milli-amps here!
+const float dischargeCurrent[] = {50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0};
 
 // ADC input pins
 #define cellVoltage0 A7
