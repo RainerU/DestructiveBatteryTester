@@ -1,5 +1,10 @@
 // Destructive Battery Tester Frame
 // https://github.com/RainerU/DestructiveBatteryTester
+//
+// Usage:
+// copy file locally
+// edit variables as needed
+// create STL at https://joostn.github.io/OpenJsCad/processfile.html
 
 
 const hx = 17; // holder x
