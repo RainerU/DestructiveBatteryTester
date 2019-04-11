@@ -14,7 +14,7 @@ Display: https://github.com/olikraus/u8g2
 # Youtube Video Reference
 presentation on the German channel "Elektrobits": https://youtu.be/Gl1ISn4Dsfc
 
-presentation on the English channel "Bits and Electrons": https://youtu.be/K4TOXWvdmNs
+presentation on the English channel "Bits and Electrons": https://youtu.be/sXIeAKB41Y0
 
 # License
 Copyright (c) 2019 Rainer Urlacher
